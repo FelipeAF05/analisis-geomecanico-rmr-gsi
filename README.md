@@ -36,7 +36,7 @@ Análisis y dashboard de **79 macizos rocosos** con Python y Power BI: control d
 ├── notebooks/   analisis.ipynb
 ├── output/      gráficos y macizos_procesados.csv
 ├── docs/        capturas del dashboard
-└── Dashboard_RMR_GSI.pbix
+└── Dashboard_Geomecanica.pbix
 ```
 
 ## Cómo ejecutarlo
