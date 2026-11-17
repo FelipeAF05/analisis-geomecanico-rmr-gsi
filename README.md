@@ -67,4 +67,4 @@ Python (pandas, NumPy, Matplotlib, seaborn, SciPy), Power BI Desktop (DAX), Exce
 
 ## Autor
 
-Felipe Álvarez Flores — Geólogo · [ENLACE A LINKEDIN]
+Felipe Álvarez Flores — Geólogo · https://www.linkedin.com/in/felipe-alvarez-flores-72906131a/
